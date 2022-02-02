@@ -10,8 +10,8 @@ It plots two graphics (cases and deaths). Ready to be saved as PNG.
 
 # Examples
 
-[Spain cases plot](https://github.com/armengot/covidplot/blob/main/spain_cases_sample.png)
-[Spain deaths plot](https://github.com/armengot/covidplot/blob/main/spain_deaths_sample.png)
+![Spain cases plot](https://github.com/armengot/covidplot/blob/main/spain_cases_sample.png)
+![Spain deaths plot](https://github.com/armengot/covidplot/blob/main/spain_deaths_sample.png)
 
 # Don't forget
 Remove local .csv files downloaded.
