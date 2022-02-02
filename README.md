@@ -14,5 +14,4 @@ Remove local .csv files downloaded.
 # License
 
 Marcelo Armengot (C) 2022
-
 [GNU/GPL](https://www.gnu.org/licenses/gpl-3.0.html)
