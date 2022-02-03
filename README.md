@@ -26,7 +26,7 @@ $ ./covidplot.py "United States"
 ```
 
 ## Requirements
-The script is written under a GNU/Linux system but if you are using Windows you will probably be able to (run)[https://realpython.com/run-python-scripts/#using-the-script-filename] it too.
+The script is written under a GNU/Linux system but if you are using Windows you will probably be able to [run](https://realpython.com/run-python-scripts/#using-the-script-filename) it too.
 
 # License
 
