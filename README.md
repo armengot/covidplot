@@ -2,7 +2,7 @@
 Single data plot of COVID19 cases (or deaths) for specific country.
 
 # Usage:
-Single script to download data from: https://covid.ourworldindata.org/data and plot a specific country data.
+Single script to download data from: [covid.ourworldindata.org](https://covid.ourworldindata.org/data/owid-covid-data.csv) and plot a specific country data.
 ```
 $ ./covidplot.py Spain
 ```
@@ -20,7 +20,7 @@ Remove local .csv files downloaded.
 
 ## What is the tag of my country?
 The source data is downloaded from [covid.ourworldindata.org](https://covid.ourworldindata.org/data/owid-covid-data.csv) in a csv file.
-After the first run of the script you can access an look for the specific tag, some countries need quotes.
+After the first run of the script you can access and look for the specific tag, some countries need quotes.
 ```
 $ ./covidplot.py "United States"
 ```

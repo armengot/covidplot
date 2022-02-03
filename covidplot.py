@@ -87,6 +87,9 @@ with open(file,'r') as f:
         if (row[ilocs]==country):
             data.append([row[idate],row[inews],row[idths],row[ipops]])
 f.close()
+if len(data)==0:
+    print(redbold+country+normal+" not found in "+file)
+    exit(0)
 time = np.zeros(50,dtype='datetime64[D]')
 news = np.zeros(50,dtype='float')
 dths = np.zeros(50,dtype='float')
