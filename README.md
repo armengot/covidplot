@@ -24,6 +24,10 @@ After the first run of the script you can access and look for the specific tag, 
 ```
 $ ./covidplot.py "United States"
 ```
+
+## Requirements
+The script is written under a GNU/Linux system but if you are using Windows you will probably be able to (run)[https://realpython.com/run-python-scripts/#using-the-script-filename] it too.
+
 # License
 
 Marcelo Armengot (C) 2022
